@@ -1,0 +1,4 @@
+- fazer signup controller e testes
+- criar erros personalizados
+- testar integracções e excessões
+- integrar com usecase addacount
